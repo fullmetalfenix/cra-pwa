@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <img src="demo.webp" className="" alt="The child" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
